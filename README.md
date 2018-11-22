@@ -2,7 +2,7 @@
 A curated list of tools and websites to get more from your Media
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary><strong>Table of Contents</strong></summary>
 
 * [Analysis](#analysis)
 * [Browser Extensions](#browser-extensions)
