@@ -7,6 +7,7 @@ A curated list of tools and websites to get more from your Media
 * [Analysis](#analysis)
 * [Browser Extensions](#browser-extensions)
 * [Communities](#communities)
+* [Data](#data)
 
 </details>
 
@@ -24,3 +25,8 @@ A curated list of tools and websites to get more from your Media
 
 - [Data For News](https://datafor.news) : A community Open and data-driven tools to have more knowledge about our news and explore the media
 - [Le Tank Media (French)](http://letankmedia.fr/) : A Paris-based incubator at the crossroads of the Media, Entrepreneurship and Innovation
+
+## Data
+
+- [data.gouv.fr](https://www.data.gouv.fr/en/): Open platform for French public data
+- [data.gov](https://www.data.gov/): The U.S. Government’s open data platform
