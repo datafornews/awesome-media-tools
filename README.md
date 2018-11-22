@@ -1,9 +1,14 @@
 # awesome-media-tools
 A curated list of tools and websites to get more from your Media
 
-* [Analysis](/#Analysis)
-* [Browser Extensions](/#Browser-Extensions)
-* [Communities](/#Communities)
+<details>
+  <summary>Table of Contents</summary>
+
+* [Analysis](/#analysis)
+* [Browser Extensions](/#browser-extensions)
+* [Communities](/#communities)
+
+</details>
 
 ## Analysis
 
