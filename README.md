@@ -9,7 +9,7 @@ A curated list of tools and websites to get more from your Media
   - [Browser Extensions](#browser-extensions)
   - [Communities](#communities)
   - [Data](#data)
-  - [Other](#other)
+  - [Natural Language Processing](#natural-language-processing)
 
 </details>
 
@@ -33,6 +33,6 @@ A curated list of tools and websites to get more from your Media
 - [data.gouv.fr](https://www.data.gouv.fr/en/): Open platform for French public data
 - [data.gov](https://www.data.gov/): The U.S. Government’s open data platform
 
-## Other
+## Natural Language Processing
 
 - [Medias Bias Fact Check](https://mediabiasfactcheck.com/): A comprehensive listing of media bias.
