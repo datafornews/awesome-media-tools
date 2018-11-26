@@ -1,5 +1,5 @@
 # awesome-media-tools
-A curated list of tools and websites to get more from your Media
+A curated list of tools and websites to get more from your Media. Do contribute with a PR or an Issue!
 
 <details>
   <summary><strong>Table of Contents</strong></summary>
