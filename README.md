@@ -16,7 +16,8 @@ A curated list of tools and websites to get more from your Media. Do contribute 
 ## Analysis
 
 - [The Pudding](https://pudding.cool) : The Pudding explains ideas debated in culture with visual essays.
-- [Lui Président (French only)](http://www.luipresident.fr/) : A live evaluation of French President E. Macron's campaign promises
+- [Lui Président (French)](http://www.luipresident.fr/) : A live evaluation of French President E. Macron's campaign promises
+- [Dans mon labo (French)](https://dansmonlabo.com): Y. Guegan's data experiments like [most dealt with topics of 50 French news sites](https://dansmonlabo.com/2018/02/01/obsessions-marottes-et-zones-dombre-voici-les-sujets-preferes-de-50-sites-dinfo-1661) or a [map of the world, according to the number of mentions in various media](https://dansmonlabo.com/2016/01/24/le-monde-vu-par-les-medias-francais-990)
 
 ## Browser Extensions
 
