@@ -23,11 +23,13 @@ A curated list of tools and websites to get more from your Media. Do contribute 
 
 - [Politifact](https://www.politifact.com/) : Non profit bringing together editors and reporters reporting on the accuracy of statements made by elected officials, candidates, their staffs, lobbyists, interest groups and others involved in U.S. politics since 2007
 - [FactCheck.org](https://www.factcheck.org/) : Non profit, non-partisan website that describes itself as a "consumer advocate for voters that aims to reduce the level of deception and confusion in U.S. politics", since 2003
+- [CaptainFact](https://captainfact.io/):  a set of tools to collectively verify information anywhere on the Internet.
 
 ## Browser Extensions
 
 - [Metada](https://metada.org) : a browser extension showing you who owns the media you read with a graph. This is a [DataForNews](https://datafor.news) project.
 - [NewsGuard](https://www.newsguardtech.com/) : Their Green-Red ratings signal if a website is trying to get it right or instead has a hidden agenda or knowingly publishes falsehoods or propaganda.
+- [CaptainFact](https://captainfact.io/extension) : The web extension injects CaptainFact's data directly on the content you're watching.
 
 ## Communities
 
