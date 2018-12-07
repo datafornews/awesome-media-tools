@@ -3,8 +3,7 @@ A curated list of tools and websites to get more from your Media. Do contribute 
 
 <details>
   <summary><strong>Table of Contents</strong></summary>
-
-- [awesome-media-tools](#awesome-media-tools)
+  
   - [Analysis](#analysis)
   - [Fact Checking](#fact-checking)
   - [Browser Extensions](#browser-extensions)
