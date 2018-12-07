@@ -6,6 +6,7 @@ A curated list of tools and websites to get more from your Media. Do contribute 
 
 - [awesome-media-tools](#awesome-media-tools)
   - [Analysis](#analysis)
+  - [Fact Checking](#fact-checking)
   - [Browser Extensions](#browser-extensions)
   - [Communities](#communities)
   - [Data](#data)
@@ -18,6 +19,11 @@ A curated list of tools and websites to get more from your Media. Do contribute 
 - [The Pudding](https://pudding.cool) : The Pudding explains ideas debated in culture with visual essays.
 - [Lui Président (French)](http://www.luipresident.fr/) : A live evaluation of French President E. Macron's campaign promises
 - [Dans mon labo (French)](https://dansmonlabo.com): Y. Guegan's data experiments like [most dealt with topics of 50 French news sites](https://dansmonlabo.com/2018/02/01/obsessions-marottes-et-zones-dombre-voici-les-sujets-preferes-de-50-sites-dinfo-1661) or a [map of the world, according to the number of mentions in various media](https://dansmonlabo.com/2016/01/24/le-monde-vu-par-les-medias-francais-990)
+
+## Fact Checking
+
+- [Politifact](https://www.politifact.com/) : Non profit bringing together editors and reporters reporting on the accuracy of statements made by elected officials, candidates, their staffs, lobbyists, interest groups and others involved in U.S. politics since 2007
+- [FactCheck.org](https://www.factcheck.org/) : Non profit, non-partisan website that describes itself as a "consumer advocate for voters that aims to reduce the level of deception and confusion in U.S. politics", since 2003
 
 ## Browser Extensions
 
